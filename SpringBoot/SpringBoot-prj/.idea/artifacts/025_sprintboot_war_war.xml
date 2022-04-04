@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="025-sprintboot-war:war">
+    <output-path>$PROJECT_DIR$/025-sprintboot-war/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>025-sprintboot-war</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="myboot.war">
+      <element id="artifact" artifact-name="025-sprintboot-war:war exploded" />
+    </root>
+  </artifact>
+</component>

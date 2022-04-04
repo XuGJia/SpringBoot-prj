@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>内置工具类对象</title>
+</head>
+<body>
+    <div style="margin-left: 400px">
+        <h3>日期类对象 #dates</h3>
+        <p th:text="${#dates.format(mydate)}"></p>
+        <p th:text="${#dates.format(mydate,'yyyy-MM-dd')}"></p>
+        <p th:text="${#dates.format(mydate,'yyyy-MM-dd HH:mm:ss')}"></p>
+        <p th:text="${#dates.year(mydate)}"></p>
+        <p th:text="${#dates.month(mydate)}"></p>
+        <p th:text="${#dates.day(mydate)}"></p>
+        <p th:text="${#dates.createNow()}"></p>
+
+        <h3>内置工具类#numbers，操作数字</h3>
+        <p th:text="${#numbers.formatCurrency(mynum)}"></p>
+        <p th:text="${#numbers.arrayFormatDecimal(mynum,5,2)}"></p>
+
+        <h3>内置工具类#strings，操作字符串</h3>
+        <p th:text="${#strings.toUpperCase(mystr)}"></p>
+        <p th:text="${#strings.indexOf(mystr,'power')}"></p>
+        <p th:text="${#strings.substring(mystr,2,5)}"></p>
+        <p th:text="${#strings.substring(mystr,2)}"></p>
+        <p th:text="${#strings.concat(mystr,'----java')}"></p>
+        <p th:text="${#strings.length(mystr)}"></p>
+        <br/>
+
+        <h3>内置工具类#lists，操作list集合</h3>
+        <p th:text="${#lists.size(mylist)}"></p>
+        <p th:if="${#lists.contains(mylist,'a')}">有成员a</p>
+        <p th:if="!${#lists.isEmpty(mylist)}">list集合不为空</p>
+        <br/>
+
+        <h3>处理null</h3>
+        <p th:text="${zoo?.dog?.name}"></p>
+        <p th:text="${zoo.cat}"></p>
+    </div>
+</body>
+</html>

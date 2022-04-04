@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://D:/BaiDuWangPanDownload/最新版SpringBoot/代码/019-springboot-transactional/019-springboot-transactional/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/002-springboot-first" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/002-springboot-first/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/005-springboot-mvc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/005-springboot-mvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/006-springboot-environment" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/006-springboot-environment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/007-springboot-multi-environment" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/007-springboot-multi-environment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/008-springboot-custom-yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/008-springboot-custom-yml/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/009-springboot-jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/009-springboot-jsp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/010-springboot-container" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/010-springboot-container/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/011-springboot-commandlinerunner" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/011-springboot-commandlinerunner/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/012-springboot-interceptor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/012-springboot-interceptor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/013-springboot-servlet" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/013-springboot-servlet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/014-springboot-filter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/014-springboot-filter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/015-springboot-character-filter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/015-springboot-character-filter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/016-springboot-character-properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/016-springboot-character-properties/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/017-springboot-mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/017-springboot-mapper/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/018-springboot-mapperscan" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/018-springboot-mapperscan/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/020-springboot-restful/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/020-springboot-restful/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/021-springboot-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/023-service-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/024-springboot-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/025-sprintboot-war/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/026-springboot-jar/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/027-thymeleaf-first/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/028-thymeleaf-course/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-studentservice/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
